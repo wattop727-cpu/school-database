@@ -1,0 +1,14 @@
+From: support@paypal.com
+To: mike.brown@gmail.com
+Subject: Your Account Has Been Limited
+Date: Mon, 27 Feb 2026 14:22:00 +0000
+Message-ID: <support-4829@paypal.com>
+Return-Path: <support@paypal.com>
+Reply-To: support@paypal.com
+Received: from unknown-server.ru (unknown-server.ru [185.234.219.77])
+        by gmail.com with ESMTP id def002
+        Mon, 27 Feb 2026 14:22:00 +0000
+Authentication-Results: gmail.com;
+        spf=fail (gmail.com: domain of support@paypal.com does not designate 185.234.219.77 as permitted sender) smtp.mailfrom=paypal.com;
+        dkim=pass header.i=@paypal.com;
+        dmarc=pass header.from=paypal.com

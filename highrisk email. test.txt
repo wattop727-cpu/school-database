@@ -1,0 +1,14 @@
+From: security@barclays.com
+To: mike.brown@gmail.com
+Subject: URGENT: Verify Your Account Now
+Date: Mon, 27 Feb 2026 02:14:00 +0000
+Message-ID: <alert-9921@barclays.com>
+Return-Path: <noreply@totally-not-barclays.xyz>
+Reply-To: refund-team@gmail.com
+Received: from suspicious-relay.cn (suspicious-relay.cn [103.56.78.214])
+        by gmail.com with ESMTP id ghi003
+        Mon, 27 Feb 2026 02:14:00 +0000
+Authentication-Results: gmail.com;
+        spf=fail (gmail.com: domain of security@barclays.com does not designate 103.56.78.214 as permitted sender) smtp.mailfrom=barclays.com;
+        dkim=fail (signature verification failed) header.i=@barclays.com;
+        dmarc=fail (p=REJECT) header.from=barclays.co

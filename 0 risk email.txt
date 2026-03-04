@@ -1,0 +1,14 @@
+From: sarah.jones@outlook.com
+To: mike.brown@gmail.com
+Subject: Meeting Tomorrow
+Date: Mon, 27 Feb 2026 10:30:00 +0000
+Message-ID: <meeting-001@outlook.com>
+Return-Path: <sarah.jones@outlook.com>
+Reply-To: sarah.jones@outlook.com
+Received: from outlook.com (outlook.com [40.92.1.100])
+        by gmail.com with ESMTP id abc001
+        Mon, 27 Feb 2026 10:30:00 +0000
+Authentication-Results: gmail.com;
+        spf=pass smtp.mailfrom=outlook.com;
+        dkim=pass header.i=@outlook.com;
+        dmarc=pass header.from=outlook.com
